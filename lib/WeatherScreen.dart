@@ -57,7 +57,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
     return Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Weather App',
+            'Weather Wise',
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.bold,
